@@ -20,8 +20,8 @@ Transforme chaque frame d’un GIF en caractères ASCII pour créer une animatio
 1. Clone le repo :
 
 ```bash
-git clone https://github.com/Eyub4k/ascii-gif-player.git
-cd ascii-gif-player
+git clone https://github.com/Eyub4k/GIF_to_ASCII.git
+cd GIF_to_ASCII
 ```
 
 ```bash
@@ -41,7 +41,7 @@ if __name__ == "__main__":
 Puis lance :
 
 ```bash
-python ascii_gif_player.py
+python ascii.py
 ```
 
 ## ⚙️ Paramètres
@@ -62,8 +62,7 @@ python ascii_gif_player.py
 ## 📁 Structure
 
 ```
-ascii_gif_player.py
-requirements.txt
+ascii.py
 README.md
 ```
 
