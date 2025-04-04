@@ -5,7 +5,8 @@ Transforme chaque frame d’un GIF en caractères ASCII pour créer une animatio
 
 ## ✨ Aperçu
 
-Une démo visuelle peut être ajoutée ici (ex: capture d'écran ou GIF du rendu dans le terminal).
+Une démo visuelle peut être ajoutée ici :
+![GIF](sakurajima_gif.jpg)
 
 ## 🚀 Fonctionnalités
 
