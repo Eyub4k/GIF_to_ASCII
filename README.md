@@ -5,7 +5,7 @@ Transforme chaque frame d’un GIF en caractères ASCII pour créer une animatio
 
 ## ✨ Aperçu
 
-![GIF](sakurajima_gif.jpg
+![GIF](sakurajima_gif.jpg)
 
 ## 🚀 Fonctionnalités
 
